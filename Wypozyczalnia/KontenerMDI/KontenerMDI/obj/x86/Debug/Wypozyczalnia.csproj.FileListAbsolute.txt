@@ -1,0 +1,90 @@
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe.config
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.exe
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.pdb
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\bin\Debug\hibernate.cfg.xml
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\bin\Debug\baza_danych.db
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.pdb
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Form1.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Properties.Resources.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowyKlient.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NoweAuto.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Klienci.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Auta.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno1.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.MojeOkno.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno3.resources
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mat\Desktop\Praca dom\KontenerMDI\KontenerMDI\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Form1.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Properties.Resources.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowyKlient.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NoweAuto.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Klienci.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Auta.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Rezerwacje.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno1.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.MojeOkno.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno3.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe.config
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\bin\Debug\hibernate.cfg.xml
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\bin\Debug\baza_danych.db
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.pdb
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.exe
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.pdb
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowaRezerwacja.resources
+C:\Users\Mat\Desktop\Praca dom - Kopia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.LogowanieForm.resources
+C:\Users\Mat\Desktop\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe.config
+C:\Users\Mat\Desktop\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.exe
+C:\Users\Mat\Desktop\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.pdb
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\hibernate.cfg.xml
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\baza_danych.db
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe.config
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.pdb
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csprojAssemblyReference.cache
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Form1.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Properties.Resources.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowaRezerwacja.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowyKlient.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NoweAuto.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Klienci.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Auta.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Rezerwacje.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.LogowanieForm.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno1.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.MojeOkno.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno3.resources
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.GenerateResource.cache
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.CoreCompileInputs.cache
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.CopyComplete
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.exe
+D:\Studia\SGGW\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.pdb
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\hibernate.cfg.xml
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\baza_danych.db
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe.config
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.exe
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\bin\Debug\KontenerMDI.pdb
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Form1.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Properties.Resources.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowaRezerwacja.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NowyKlient.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.NoweAuto.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Klienci.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Auta.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Administracja.Rezerwacje.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.LogowanieForm.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno1.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.MojeOkno.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.Widok.Formatki.Okno3.resources
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\Wypozyczalnia.csproj.CopyComplete
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.exe
+C:\Users\user\Desktop\Projekty ze studiów\Wypozyczalnia\KontenerMDI\KontenerMDI\obj\x86\Debug\KontenerMDI.pdb
