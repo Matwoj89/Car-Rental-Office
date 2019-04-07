@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD69E465-E478-4B68-ADE0-3630972CC11D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wypozyczalnia</RootNamespace>
+    <AssemblyName>KontenerMDI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.Core">
+      <HintPath>..\..\..\libs\libs\libs\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\..\..\libs\libs\libs\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\..\libs\libs\libs\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\libs\libs\libs\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\..\..\libs\libs\libs\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle">
+      <HintPath>..\..\..\libs\libs\libs\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\..\libs\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfejsy\ILogowanie.cs" />
+    <Compile Include="Klasy\Uzytkownik.cs" />
+    <Compile Include="Klasy\Logowanie.cs" />
+    <Compile Include="Klasy\Rezerwacja.cs" />
+    <Compile Include="Klasy\Db\BazaDanych.cs" />
+    <Compile Include="Klasy\Klient.cs" />
+    <Compile Include="Klasy\Auto.cs" />
+    <Compile Include="Mappings\RezerwacjaMap.cs" />
+    <Compile Include="Mappings\KlientMap.cs" />
+    <Compile Include="Mappings\AutoMap.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Widok\Formatki\Administracja\NowaRezerwacja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\NowaRezerwacja.Designer.cs">
+      <DependentUpon>NowaRezerwacja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\NowyKlient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\NowyKlient.Designer.cs">
+      <DependentUpon>NowyKlient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\NoweAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\NoweAuto.Designer.cs">
+      <DependentUpon>NoweAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Klienci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Klienci.Designer.cs">
+      <DependentUpon>Klienci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Auta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Auta.Designer.cs">
+      <DependentUpon>Auta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Rezerwacje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Administracja\Rezerwacje.Designer.cs">
+      <DependentUpon>Rezerwacje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\LogowanieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\LogowanieForm.Designer.cs">
+      <DependentUpon>LogowanieForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno1.Designer.cs">
+      <DependentUpon>Okno1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno2.Designer.cs">
+      <DependentUpon>Okno2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Widok\Formatki\Okno3.Designer.cs">
+      <DependentUpon>Okno3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wyjątki\BrakAutoryzacjiExpection.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\NowaRezerwacja.resx">
+      <DependentUpon>NowaRezerwacja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\NowyKlient.resx">
+      <DependentUpon>NowyKlient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\NoweAuto.resx">
+      <DependentUpon>NoweAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\Klienci.resx">
+      <DependentUpon>Klienci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\Auta.resx">
+      <DependentUpon>Auta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Administracja\Rezerwacje.resx">
+      <DependentUpon>Rezerwacje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\LogowanieForm.resx">
+      <DependentUpon>LogowanieForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Okno1.resx">
+      <DependentUpon>Okno1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Okno2.resx">
+      <DependentUpon>Okno2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Widok\Formatki\Okno3.resx">
+      <DependentUpon>Okno3.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="baza_danych.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hibernate.cfg.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
